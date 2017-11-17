@@ -1,0 +1,9 @@
+
+Average is: 0.08
+Median is : 0.0
+Average is: 0.08
+Median is : 0.0
+Average is: 0.08
+Median is : 0.0
+Average is: 0.08
+Median is : 0.0
